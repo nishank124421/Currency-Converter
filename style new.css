@@ -16,7 +16,7 @@ a{
     text-decoration: none;
 }
 .logo{
-    margin-left: 200px;
+    margin-left: 100px;
 }
 logo:hover{
     background-color: rgb(13, 0, 164);
@@ -27,8 +27,7 @@ logo:hover{
 }
 .logo2{
 
-   margin-left: 250px;
-
+    margin-left: 255px;
 }
 .logo3{
     margin-left: 25px;
@@ -53,7 +52,7 @@ logo:hover{
 .header{
     text-align: center;
     font-size: 40px;
-    padding-top: 55px;
+    padding-top: 60px;
 }
 .header1{
     text-align: center;
