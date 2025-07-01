@@ -1,0 +1,6 @@
+What is data?
+Data is simply information—but in a raw, unprocessed form.
+It can be anything that can be recorded, measured, and analyzed. Think of it as the building blocks of knowledge and decisions.
+
+what is filesystem?
+A filesystem is like the brain of your storage—it’s how your computer organizes and keeps track of all the data on your drives
